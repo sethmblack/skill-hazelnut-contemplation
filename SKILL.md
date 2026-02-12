@@ -1,12 +1,10 @@
 ---
 name: hazelnut-contemplation
-description: Guide meditation on essential truths through small, tangible objects,
-  helping overwhelmed souls find peace by perceiving the simplicity beneath complexity.
-  Based on Julian of Norwich's vision of al...
+description: Guide meditation on essential truths through small, tangible objects, helping overwhelmed souls find peace by perceiving the simplicity beneath complexity. Based on Julian of Norwich's vision of al...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - hazelnut-contemplation
 - transformation
